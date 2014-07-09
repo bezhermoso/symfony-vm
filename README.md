@@ -48,9 +48,7 @@ The VM is provisioned with the following packages:
 
 Your Symfony2 application will be located in `/symfony` in the VM.
 
-__For Windows users__:
-
-Since Windows does not support NFS, you will need to leave blank the `sync_type` values under `vagrantfile-local -> vm -> synced_folder` items in `puphpet/config.yaml`.
+__For Windows users__: Since Windows does not support NFS, you will need to leave blank the `sync_type` values under `vagrantfile-local -> vm -> synced_folder` items in `puphpet/config.yaml`.
 
 ####IP and Ports
 
