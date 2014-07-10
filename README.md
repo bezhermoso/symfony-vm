@@ -17,6 +17,8 @@ $ cd vm
 $ vagrant up
 ```
 
+(For existing projects, simply `cd` to your project root and skip directly to `git remote add...`)
+
 A `vm` directory will be created on your project root, which you can commit along with your code-base and therefore version it along with your project.
 
 (You could use `git submodule` if you want, but see the pros of [git-subtree](http://git-scm.com/book/en/Git-Tools-Subtree-Merging) and give it a chance.)
