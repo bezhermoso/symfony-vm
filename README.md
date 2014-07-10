@@ -1,7 +1,7 @@
 symfony-vm
 ==========
 
-Re-usable Vagrant setup for Symfony2 projects.
+Vagrant setup template for Symfony2 projects.
 
 The Puppet manifests contained herein is generated via [PuPHPet](https://puphpet.com).
 
