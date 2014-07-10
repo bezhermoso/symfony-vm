@@ -56,9 +56,9 @@ __For Windows users__: Since Windows does not support NFS, you will need to leav
 
 ####IP and Ports
 
-By default, the VM's IP is `47.37.13.17`. Apache2 is served through port `8080`, and can be accessed through the host machine's port `8000`, and lastly, SSH port `22` can be accessed through the host machine's port `2200`. 
+By default, the VM's IP is `47.37.13.37`. Apache2 is served through port `8080`, and can be accessed through the host machine's port `8000`, and lastly, SSH port `22` can be accessed through the host machine's port `2200`. 
 
-You can access your Symfony application through your browser at `http://47.37.13.17:8000`, or `http://localhost:8000`.
+You can access your Symfony application through your browser at `http://47.37.13.37:8000`, or `http://localhost:8000`.
 
 See `Vagrantfile` and `puppet/config.yaml` for the relevant sections where these are configured. Modify them as needed.
 
