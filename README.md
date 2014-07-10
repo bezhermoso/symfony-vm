@@ -1,9 +1,7 @@
 symfony-vm
 ==========
 
-A template for a VM setup for Symfony2 projects using [Vagrant](vagrantup.com) and [Puppet](puppetlabs.com).
-
-The Puppet manifest contained herein is generated via [PuPHPet](https://puphpet.com).
+A template for VM setups for your Symfony2 projects using [Vagrant](vagrantup.com) and [Puppet](puppetlabs.com).
 
 ###Usage
 
@@ -73,3 +71,6 @@ Database: symfony
 ```
 
 (Alternatively, there is also a `symfony` user with the password `symfony`)
+
+-----------------------------------------
+_The Puppet manifest contained herein is generated via [PuPHPet](https://puphpet.com)._
