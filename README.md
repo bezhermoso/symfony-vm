@@ -9,6 +9,12 @@ A template for VM setups for your Symfony2 projects using [Vagrant](vagrantup.co
 $ composer create-project symfony/framework-standard-edition awesome-project 2.3.*
 $ cd awesome-project
 $ git init
+
+$ git add ...
+$ git commit -m "My first commit!"
+
+/* git add everything and create a first commit. Your working directory must be clean otherwise the next command won't work */
+
 $ git remote add symfony-vm https://github.com/bezhermoso/symfony-vm.git
 $ git subtree add --prefix=vm symfony-vm master
 $ cd vm
