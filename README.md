@@ -1,7 +1,8 @@
 symfony-vm
 ==========
 
-## THIS IS DEPRECATED.
+### THIS IS DEPRECATED!
+
 
 A template for VM setups for your Symfony2 projects using [Vagrant](vagrantup.com) and [Puppet](puppetlabs.com).
 
